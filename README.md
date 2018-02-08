@@ -7,3 +7,4 @@ Useful WordPress snippets
 3. [nofollow.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/nofollow.php)
 4. [functions-rss.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/functions-rss.php)
 5. [defer-scripts.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/defer-scripts.php)
+6. [disable-wordpress-search-functionality.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/disable-wordpress-search-functionality.php)
