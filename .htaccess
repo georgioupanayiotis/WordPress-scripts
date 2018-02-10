@@ -1,0 +1,4 @@
+# Force a Directory Folder or WebSite to go over HTTPS SSL with htaccess
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.example.com/$1 [R,L]
