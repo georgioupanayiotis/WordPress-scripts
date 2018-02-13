@@ -9,4 +9,5 @@ Useful WordPress snippets
 5. [defer-scripts.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/defer-scripts.php)
 6. [disable-wordpress-search-functionality.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/disable-wordpress-search-functionality.php)
 7. [footer-copyright.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/footer-copyright.php)
+8. [three-videos-align](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/index.html)
 
