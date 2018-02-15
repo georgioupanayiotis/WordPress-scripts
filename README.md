@@ -10,4 +10,5 @@ Useful WordPress snippets
 6. [disable-wordpress-search-functionality.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/disable-wordpress-search-functionality.php)
 7. [footer-copyright.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/footer-copyright.php)
 8. [three-videos-align](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/index.html)
+9. [remove-wp-version.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/remove-wp-version.php)
 
