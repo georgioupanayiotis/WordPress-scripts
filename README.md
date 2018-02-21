@@ -11,4 +11,6 @@ Useful WordPress snippets
 7. [footer-copyright.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/footer-copyright.php)
 8. [three-videos-align](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/index.html)
 9. [remove-wp-version.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/remove-wp-version.php)
+10. [facebook-post-like.php](https://github.com/georgioupanayiotis/WordPress/blob/master/facebook-post-like.php)
+
 
