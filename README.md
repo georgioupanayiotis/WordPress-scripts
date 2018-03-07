@@ -13,3 +13,4 @@ Useful WordPress snippets
 9. [remove-wp-version.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/remove-wp-version.php)
 10. [facebook-post-like.php](https://github.com/georgioupanayiotis/WordPress/blob/master/facebook-post-like.php)
 11. [disable-self-pingbacks.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/disable-self-pingbacks.php)
+12. [post-disclaimer.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/post-disclaimer.php)
