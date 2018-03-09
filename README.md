@@ -15,3 +15,4 @@ Useful WordPress snippets
 11. [disable-self-pingbacks.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/disable-self-pingbacks.php)
 12. [post-disclaimer.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/post-disclaimer.php)
 13. [convert-date-to-ago.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/convert-date-to-ago.php)
+14. [svg-support.php](https://github.com/georgioupanayiotis/WordPress-scripts/blob/master/svg-support.php)
