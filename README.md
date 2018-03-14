@@ -1,4 +1,4 @@
-# WordPress-scripts
+# WordPress Scripts
 
 Useful WordPress snippets
 
